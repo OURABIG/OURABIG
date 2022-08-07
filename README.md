@@ -1,3 +1,4 @@
-i am a indie game and software developer:
-youtube: https://www.youtube.com/channel/UC5BwhYpwprDUzQWPJo6eMQg
-buy me a kofi: https://ko-fi.com/outseet
+i am a solo game and software developer:
+support me on kofi and patreon: 
+https://ko-fi.com/outseet
+https://www.patreon.com/OUTSTUDIO
