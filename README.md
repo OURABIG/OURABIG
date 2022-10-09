@@ -5,5 +5,7 @@ i am a solo indie game developer:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Outseet&theme=onedark)](https://github.com/Outseet?tab=repositories)
 
+
+[![](https://visitcount.itsvg.in/api?id=Outseet&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 support me on kofi: 
 https://ko-fi.com/outseet
