@@ -1,7 +1,5 @@
 i am a solo indie game developer:
 
-https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Outseet&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Outseet&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
