@@ -7,5 +7,6 @@ i am a solo indie game developer:
 
 
 [![](https://visitcount.itsvg.in/api?id=Outseet&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 support me on kofi: 
 https://ko-fi.com/outseet
