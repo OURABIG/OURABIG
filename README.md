@@ -1,4 +1,4 @@
-i am a solo indie game developer:
+I AM A DEVELOPER FROM MOROCCO MAINLY FOCUSING IN GAME AND SOFTWARE DEVELOPEMENT
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=OURABIG&show_icons=true&theme=radical)
 
